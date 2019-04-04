@@ -92,7 +92,7 @@ public class MyArrayList {
 		list.add(5);
 		list.add(6);
 		list.add(7);
-		list.add(8);
+		list.add(9);
 
 		System.out.println("Initial ArrayList: " + list + "| size: " + list.size());
 		// System.out.println("Get index 2: " + list.get(2));
